@@ -9,3 +9,4 @@ Note (AutoWire)
 
 
 GardeningService rich = ctx.getBean(GardeningService.class);
+rich.garden();
